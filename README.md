@@ -89,7 +89,7 @@ TWILIO_WHATSAPP_NUMBER="+14155238886"
 Ngrok exposes your local address to the internet to enable you communicate with Twilio APIs [Download Ngrok](https://ngrok.com/download)
 
 ###### More Information 
-You can get more information by following this guide from [Build a WhatsApp Chatbot with Twilio WhatsApp API, PHP, and Laravel](https://www.twilio.com/blog/build-whatsapp-chatbot-twilio-whatsapp-api-php-laravel)
+You can get more information by following this guide on [Build a WhatsApp Chatbot with Twilio WhatsApp API, PHP, and Laravel](https://www.twilio.com/blog/build-whatsapp-chatbot-twilio-whatsapp-api-php-laravel)
 
 
 
