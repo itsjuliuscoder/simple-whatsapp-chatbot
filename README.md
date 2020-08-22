@@ -59,4 +59,37 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# simple-whatsapp-chatbot
+
+## Simple-Whatsapp-Chatbot
+This is a simple chatbot built with Twilio WhatsApp API unto Laravel 
+
+## Usage 
+
+###### Clone the repo
+
+```
+git clone https://github.com/itsjuliuscoder/simple-whatsapp-chatbot.git
+```
+
+###### Install Packages Including Twilio Guzzle HTTP Client
+```
+composer update 
+composer require twilio/sdk
+composer require guzzlehttp/guzzle
+```
+
+###### Config the Twilio Keys and WhatsApp on .env file
+```
+TWILIO_SID="ACCOUNT_SID"
+TWILIO_AUTH_TOKEN="YOUR_AUTH_TOKEN"
+TWILIO_WHATSAPP_NUMBER="+14155238886"
+```
+
+###### Download and Install Ngrok 
+Ngrok exposes your local address to the internet to enable you communicate with Twilio APIs 
+
+###### More Information 
+You can get more information by following this guide from [Twilio] (https://www.twilio.com/blog/build-whatsapp-chatbot-twilio-whatsapp-api-php-laravel)
+
+
+
