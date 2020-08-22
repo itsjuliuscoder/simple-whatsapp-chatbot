@@ -86,10 +86,10 @@ TWILIO_WHATSAPP_NUMBER="+14155238886"
 ```
 
 ###### Download and Install Ngrok 
-Ngrok exposes your local address to the internet to enable you communicate with Twilio APIs 
+Ngrok exposes your local address to the internet to enable you communicate with Twilio APIs [Download Ngrok](https://ngrok.com/download)
 
 ###### More Information 
-You can get more information by following this guide from [Twilio] (https://www.twilio.com/blog/build-whatsapp-chatbot-twilio-whatsapp-api-php-laravel)
+You can get more information by following this guide from [Twilio](https://www.twilio.com/blog/build-whatsapp-chatbot-twilio-whatsapp-api-php-laravel)
 
 
 
